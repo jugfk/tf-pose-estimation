@@ -1,0 +1,11 @@
+============================================================================================
+How To Install Skeleton Detection On Jetson Nano:
+============================================================================================
+git clone https://github.com/jetsonworld/DeepLearning_Skeleton_Detection.git
+cd DeepLearning_Skeleton_Detection
+sh install-tensorflow.sh
+sh install-pose-estimation.sh
+
+- For Webcam:
+python3 run_webcam.py --model=mobilenet_thin --resize=320x176
+============================================================================================
