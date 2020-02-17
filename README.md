@@ -14,4 +14,4 @@ python3 run_webcam.py --model=mobilenet_thin --resize=320x176
 https://github.com/ildoonet/tf-pose-estimation
 https://github.com/karaage0703/jetson-nano-tools
 
-Thank you for your devotion.
+(Thank you for your precious devotion.)
