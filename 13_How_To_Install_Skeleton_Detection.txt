@@ -1,8 +1,8 @@
 ============================================================================================
 How To Install Skeleton Detection On Jetson Nano:
 ============================================================================================
-git clone https://github.com/jetsonworld/DeepLearning_Skeleton_Detection.git
-cd DeepLearning_Skeleton_Detection
+git clone https://github.com/jetsonworld/tf-pose-estimation.git
+cd tf-pose-estimation
 sh install-tensorflow.sh
 sh install-pose-estimation.sh
 
